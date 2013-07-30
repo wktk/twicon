@@ -1,0 +1,2 @@
+require './twicon'
+run Twicon
