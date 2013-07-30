@@ -1,7 +1,7 @@
 require 'dalli'
 require 'nokogiri'
 require 'open-uri'
-require 'sinatra'
+require 'sinatra/base'
 
 class Twicon < Sinatra::Base
   configure do
