@@ -14,6 +14,8 @@
 - Header
     http://example.com/username/header
 
+Real example: http://twicon.wktk.jp/wktk
+
 ## Deployment
 
 Requires `memcached` and following environment variables:
